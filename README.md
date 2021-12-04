@@ -9,5 +9,5 @@ UMAP beauty for mere mortals: https://johnhw.github.io/umap_primes/index.md.html
 ---
 
 <p>
-  <img src="https://github.com/nefiu/chess_umap_exploration/blob/main/screens/cosine_v01.png?raw=true" width="450" title="cosine vis v0.1">
+  <img src="https://github.com/nefiu/chess_umap_exploration/blob/master/screens/euclidean_v02.png" width="450" title="cosine vis v0.1">
 </p>
