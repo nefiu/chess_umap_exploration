@@ -8,6 +8,9 @@ UMAP beauty for mere mortals: https://johnhw.github.io/umap_primes/index.md.html
 
 ---
 
+UMAP Chess games dataset visualization after forming initial vector of 774 features with numerical transformation and one-hot-encoding of categorical data.
+
+Distance: Euclidean
 <p>
   <img src="https://github.com/nefiu/chess_umap_exploration/blob/master/screens/euclidean_v02.png" width="450" title="cosine vis v0.1">
 </p>
