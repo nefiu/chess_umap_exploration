@@ -10,7 +10,7 @@ Understanding UMAP: https://pair-code.github.io/understanding-umap/ \
 UMAP beauty for mere mortals: https://johnhw.github.io/umap_primes/index.md.html
 
 
-## Analysis log
+---
 
 <p>
   <img src="https://github.com/rpast/chess_umap_exploration/blob/master/screens/en-One%20Hot-oct_manhattan_nn-25_mind-0.1_v-0.4.png?raw=true" width="450" title="cosine vis v0.1">
